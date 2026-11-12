@@ -1,0 +1,445 @@
+[
+    {
+        "username": "Charlotte",
+        "password_hash": "123456",
+        "profile": {
+            "first_name": "Charlotte",
+            "last_name": "Budge",
+            "age": 17,
+            "gender": "Female",
+            "personality": "Ambivert",
+            "hobbies": [
+                "Reading",
+                "Gaming",
+                "Music",
+                "Art",
+                "Movies",
+                "Sports",
+                "Nature",
+                "Chrocheting",
+                "Board games",
+                "Puzzles",
+                "Gardening"
+            ],
+            "friendship_type": "Close friendship",
+            "communication": "Phone calls",
+            "energy": "Very energetic",
+            "group_preference": "Any of these",
+            "new_things": "Yes",
+            "environment": "Either is fine",
+            "helping_others": "Yes",
+            "values": [
+                "Honesty",
+                "Kindness",
+                "Loyalty",
+                "Respect",
+                "Support",
+                "Humour",
+                "Good listener",
+                "Deep conversations",
+                "Empathy",
+                "Trustworthiness"
+            ],
+            "avatar": "\ud83d\udc1d"
+        }
+    },
+    {
+        "username": "mona",
+        "password_hash": "classmate143",
+        "profile": {
+            "first_name": "Mona",
+            "last_name": "Elsayed",
+            "age": 17,
+            "gender": "Female",
+            "personality": "Ambivert",
+            "hobbies": [
+                "Reading",
+                "Gaming",
+                "Art",
+                "Movies",
+                "Cooking",
+                "Sports",
+                "Travel",
+                "Nature",
+                "Writing",
+                "Chrocheting",
+                "Volunteering",
+                "Puzzles"
+            ],
+            "friendship_type": "Close friendship",
+            "communication": "Video chat",
+            "energy": "Balanced",
+            "group_preference": "Any of these",
+            "new_things": "Sometimes",
+            "environment": "Either is fine",
+            "helping_others": "Yes",
+            "values": [
+                "Kindness",
+                "Loyalty",
+                "Respect",
+                "Support",
+                "Humour",
+                "Good listener",
+                "Deep conversations",
+                "Empathy",
+                "Trustworthiness"
+            ],
+            "avatar": "\ud83c\udf33"
+        }
+    },
+    {
+        "username": "albert",
+        "password_hash": "friend789",
+        "profile": {
+            "first_name": "Albert",
+            "last_name": "Enisten",
+            "age": 34,
+            "gender": "Male",
+            "personality": "Ambivert",
+            "hobbies": [
+                "Reading",
+                "Sports",
+                "Travel",
+                "Writing",
+                "Puzzles"
+            ],
+            "friendship_type": "Activity-based friendship",
+            "communication": "Video chat",
+            "energy": "Balanced",
+            "group_preference": "Any of these",
+            "new_things": "Sometimes",
+            "environment": "Either is fine",
+            "helping_others": "Yes",
+            "values": [
+                "Kindness",
+                "Loyalty",
+                "Support",
+                "Humour",
+                "Good listener",
+                "Empathy",
+                "Low maintenance"
+            ],
+            "avatar": "\ud83d\udcda"
+        }
+    },
+    {
+        "username": "ibrahim",
+        "password_hash": "friend159",
+        "profile": {
+            "first_name": "Ibrahim",
+            "last_name": "Elsayed",
+            "age": 20,
+            "gender": "Man",
+            "personality": "Introvert",
+            "hobbies": [
+                "Reading",
+                "Movies",
+                "Sports",
+                "Writing"
+            ],
+            "friendship_type": "Casual friendship",
+            "communication": "Phone calls",
+            "energy": "Balanced",
+            "group_preference": "Any of these",
+            "new_things": "Sometimes",
+            "environment": "Either is fine",
+            "helping_others": "Yes",
+            "values": [
+                "Honesty",
+                "Kindness",
+                "Respect",
+                "Support",
+                "Humour"
+            ]
+        }
+    },
+    {
+        "username": "ahmed",
+        "password_hash": "friend263",
+        "profile": {
+            "first_name": "Ahmed",
+            "last_name": "Elsayed",
+            "age": 18,
+            "gender": "Man",
+            "personality": "Extrovert",
+            "hobbies": [
+                "Reading",
+                "Sports",
+                "Travel",
+                "Nature",
+                "Photography"
+            ],
+            "friendship_type": "Close friendship",
+            "communication": "Phone calls",
+            "energy": "Balanced",
+            "group_preference": "Any of these",
+            "new_things": "Sometimes",
+            "environment": "Either is fine",
+            "helping_others": "Yes",
+            "values": [
+                "Honesty",
+                "Kindness",
+                "Loyalty",
+                "Respect",
+                "Support",
+                "Humour"
+            ]
+        }
+    },
+    {
+        "username": "shimaa",
+        "password_hash": "friend124",
+        "profile": {
+            "first_name": "shimaa",
+            "last_name": "nagah",
+            "age": 19,
+            "gender": "Female",
+            "personality": "Ambivert",
+            "hobbies": [
+                "Music",
+                "Movies",
+                "Nature",
+                "Writing",
+                "Chrocheting",
+                "Puzzles"
+            ],
+            "friendship_type": "Activity-based friendship",
+            "communication": "Phone calls",
+            "energy": "Balanced",
+            "group_preference": "Any of these",
+            "new_things": "Yes",
+            "environment": "Quiet space",
+            "helping_others": "Yes",
+            "values": [
+                "Loyalty",
+                "Support",
+                "Deep conversations",
+                "Low maintenance"
+            ],
+            "avatar": "\ud83d\udc2b"
+        }
+    },
+    {
+        "username": "Axolotl",
+        "password_hash": "123123",
+        "profile": {
+            "first_name": "Randall",
+            "last_name": "force",
+            "age": 13,
+            "gender": "Male",
+            "personality": "Omnivert",
+            "hobbies": [
+                "Reading",
+                "Gaming",
+                "Art",
+                "Cooking",
+                "Travel",
+                "Puzzles"
+            ],
+            "friendship_type": "Casual friendship",
+            "communication": "Texting",
+            "energy": "Calm and quiet",
+            "group_preference": "Any of these",
+            "new_things": "Sometimes",
+            "environment": "Either is fine",
+            "helping_others": "Yes",
+            "values": [
+                "Honesty",
+                "Kindness",
+                "Loyalty",
+                "Respect",
+                "Support",
+                "Humour",
+                "Good listener",
+                "Deep conversations",
+                "Empathy",
+                "Trustworthiness",
+                "Low maintenance"
+            ],
+            "avatar": "\ud83c\udf33"
+        }
+    },
+    {
+        "username": "mason",
+        "password_hash": "Iamacat",
+        "profile": {
+            "first_name": "Mason",
+            "last_name": "Rick",
+            "age": 19,
+            "gender": "Non-binary",
+            "personality": "Introvert",
+            "hobbies": [
+                "Reading",
+                "Gaming",
+                "Music",
+                "Movies",
+                "Puzzles"
+            ],
+            "friendship_type": "Close friendship",
+            "communication": "Texting",
+            "energy": "Calm and quiet",
+            "group_preference": "Small groups",
+            "new_things": "Yes",
+            "environment": "Quiet space",
+            "helping_others": "Yes",
+            "values": [
+                "Kindness",
+                "Loyalty",
+                "Respect",
+                "Support",
+                "Humour",
+                "Good listener",
+                "Deep conversations",
+                "Trustworthiness",
+                "Low maintenance"
+            ],
+            "avatar": "\ud83c\udf3c"
+        }
+    },
+    {
+        "username": "boom_boom_boy",
+        "password_hash": "member1",
+        "profile": {
+            "first_name": "Essam",
+            "last_name": "Elsayed",
+            "age": 21,
+            "gender": "Male",
+            "personality": "Extrovert",
+            "hobbies": [
+                "Reading",
+                "Gaming",
+                "Movies",
+                "Cooking",
+                "Sports",
+                "Nature",
+                "Writing",
+                "Puzzles"
+            ],
+            "friendship_type": "Close friendship",
+            "communication": "Face-to-face",
+            "energy": "Very energetic",
+            "group_preference": "Any of these",
+            "new_things": "Yes",
+            "environment": "Either is fine",
+            "helping_others": "Yes",
+            "values": [
+                "Honesty",
+                "Kindness",
+                "Loyalty",
+                "Respect",
+                "Support",
+                "Humour",
+                "Deep conversations",
+                "Empathy",
+                "Low maintenance"
+            ],
+            "avatar": "\ud83c\udfc0"
+        }
+    },
+    {
+        "username": "king_ring",
+        "password_hash": "some431",
+        "profile": {
+            "first_name": "Chloe",
+            "last_name": "Afton",
+            "age": 17,
+            "gender": "Female",
+            "personality": "Omnivert",
+            "hobbies": [
+                "Reading",
+                "Gaming",
+                "Music",
+                "Art",
+                "Cooking",
+                "Dancing",
+                "Gardening"
+            ],
+            "friendship_type": "Close friendship",
+            "communication": "Video chat",
+            "energy": "Balanced",
+            "group_preference": "One-on-one",
+            "new_things": "Yes",
+            "environment": "Quiet space",
+            "helping_others": "Yes",
+            "values": [
+                "Honesty",
+                "Kindness",
+                "Loyalty",
+                "Respect",
+                "Support",
+                "Humour",
+                "Good listener",
+                "Deep conversations",
+                "Empathy",
+                "Trustworthiness",
+                "Low maintenance"
+            ],
+            "avatar": "\ud83d\udc3c"
+        }
+    },
+    {
+        "username": "Smauel",
+        "password_hash": "123456",
+        "profile": {
+            "first_name": "Sam",
+            "last_name": "Jackson",
+            "age": 19,
+            "gender": "Male",
+            "personality": "Omnivert",
+            "hobbies": [
+                "Reading",
+                "Gaming",
+                "Music",
+                "Cooking",
+                "Sports",
+                "Dancing",
+                "Yoga",
+                "Gardening"
+            ],
+            "friendship_type": "Casual friendship",
+            "communication": "Face-to-face",
+            "energy": "Calm and quiet",
+            "group_preference": "One-on-one",
+            "new_things": "Yes",
+            "environment": "Either is fine",
+            "helping_others": "Yes",
+            "values": [
+                "Honesty",
+                "Loyalty",
+                "Good listener",
+                "Deep conversations",
+                "Empathy"
+            ],
+            "avatar": "\ud83c\udf3c"
+        }
+    },
+    {
+        "username": "Yaqi",
+        "password_hash": "123456",
+        "profile": {
+            "first_name": "Yaqi",
+            "last_name": "She",
+            "age": 16,
+            "gender": "Female",
+            "personality": "Introvert",
+            "hobbies": [
+                "Sports"
+            ],
+            "friendship_type": "Casual friendship",
+            "communication": "Texting",
+            "energy": "Calm and quiet",
+            "group_preference": "Small groups",
+            "new_things": "Yes",
+            "environment": "Quiet space",
+            "helping_others": "Yes",
+            "values": [
+                "Honesty",
+                "Kindness",
+                "Humour",
+                "Good listener",
+                "Low maintenance"
+            ],
+            "avatar": "\ud83e\udd4e"
+        }
+    }
+]
